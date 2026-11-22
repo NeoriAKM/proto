@@ -14,7 +14,7 @@ int main() {
     struct sockaddr_in server_addr;
     server_addr.sin_family = AF_INET;
     server_addr.sin_port = htons(8080);
-    if (inet_pton(AF_INET, "127.0.0.1", &server_addr.sin_addr) <= 0) {
+    if (inet_pton(AF_INET, "127.168.0.100", &server_addr.sin_addr) <= 0) {
         perror("Invalid address / Address not supported");
         return 1;
     }
