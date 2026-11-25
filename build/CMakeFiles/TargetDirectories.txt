@@ -1,4 +1,0 @@
-/home/akm/doc/c/proto/build/CMakeFiles/server.dir
-/home/akm/doc/c/proto/build/CMakeFiles/cli.dir
-/home/akm/doc/c/proto/build/CMakeFiles/edit_cache.dir
-/home/akm/doc/c/proto/build/CMakeFiles/rebuild_cache.dir
